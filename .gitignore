@@ -1,3 +1,4 @@
+# Ignore environment variables and dependencies
 .env
 package-lock.json
 package.json
